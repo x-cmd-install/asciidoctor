@@ -7,7 +7,7 @@ about:
   head: 30fb8cd
   archived: false
   latestVersion: v2.0.26
-  collectedAt: 2026-09-04T19:22:27Z
+  collectedAt: 2026-09-04T21:13:16Z
 timeline:
   created: 2012-06-01
   lastCommit: 2026-09-01
@@ -84,6 +84,104 @@ total:
   openIssue: 608
   commit: 5804
 ---
+path: /home/runner/.x-repo/github.com/asciidoctor/asciidoctor
+collectedAt: 2026-09-04T21:13:18Z
+loc:
+  Ruby:
+    code: 47912
+    comments: 5690
+    blanks: 6953
+    files: 91
+  AsciiDoc:
+    code: 11884
+    comments: 446
+    blanks: 3929
+    files: 177
+  Css:
+    code: 2623
+    comments: 8
+    blanks: 474
+    files: 6
+  Gherkin:
+    code: 1200
+    comments: 13
+    blanks: 227
+    files: 4
+  Rakefile:
+    code: 117
+    comments: 14
+    blanks: 17
+    files: 8
+  Xml:
+    code: 53
+    comments: 2
+    blanks: 0
+    files: 6
+  JavaScript:
+    code: 49
+    comments: 10
+    blanks: 6
+    files: 3
+  Sh:
+    code: 43
+    comments: 9
+    blanks: 10
+    files: 2
+  Groovy:
+    code: 34
+    comments: 4
+    blanks: 5
+    files: 1
+  Yaml:
+    code: 33
+    comments: 0
+    blanks: 0
+    files: 1
+  Json:
+    code: 19
+    comments: 0
+    blanks: 0
+    files: 1
+  Html:
+    code: 17
+    comments: 0
+    blanks: 0
+    files: 8
+  Haml:
+    code: 16
+    comments: 0
+    blanks: 0
+    files: 5
+  RubyHtml:
+    code: 14
+    comments: 0
+    blanks: 0
+    files: 2
+  Svg:
+    code: 9
+    comments: 1
+    blanks: 0
+    files: 3
+  Jsx:
+    code: 8
+    comments: 0
+    blanks: 0
+    files: 1
+  OCaml:
+    code: 1
+    comments: 2
+    blanks: 0
+    files: 1
+  Text:
+    code: 0
+    comments: 451
+    blanks: 71
+    files: 2
+total:
+  code: 64036
+  comments: 6650
+  blanks: 11692
+  files: 322
 ---
 date: "2026-08-24"
 repo:
