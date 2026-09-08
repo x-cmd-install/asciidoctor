@@ -5,7 +5,7 @@ about:
   head: 30fb8cd
   archived: false
   latestVersion: "v2.0.26"
-  collectedAt: 2026-09-08T01:42:24Z
+  collectedAt: 2026-09-08T04:23:52Z
 timeline:
   created: 2012-06-01
   lastCommit: 2026-09-01
@@ -83,7 +83,7 @@ total:
   commit: 5804
 ---
 path: /home/runner/.x-repo/github.com/asciidoctor/asciidoctor
-collectedAt: 2026-09-08T01:42:28Z
+collectedAt: 2026-09-08T04:23:56Z
 loc:
   Ruby:
     code: 47912
