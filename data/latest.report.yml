@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.0.26"
   latestRelease: "v2.0.26"
   latestPrerelease: "v2.0.0.rc.3"
-  collectedAt: 2026-09-09T04:33:48Z
+  collectedAt: 2026-09-09T18:31:26Z
 timeline:
   created: 2012-06-01
   lastCommit: 2026-09-01
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2025-10-24
   lastPrerelease: 2019-03-23
 popularity:
-  star: 5212
+  star: 5213
   watcher: 114
   fork: 840
   release: 54
@@ -87,7 +87,7 @@ total:
   commit: 5804
 ---
 path: /home/runner/.x-repo/github.com/asciidoctor/asciidoctor
-collectedAt: 2026-09-09T04:33:58Z
+collectedAt: 2026-09-09T18:31:31Z
 loc:
   Ruby:
     code: 47912
