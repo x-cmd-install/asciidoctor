@@ -1,23 +1,13 @@
-- repo: archpower_powerpc
+- repo: termux
   srcname: asciidoctor
   binname: asciidoctor
   visiblename: asciidoctor
   version: 2.0.26
-  origversion: 2.0.26-1
+  origversion: null
   status: newest
   summary: An implementation of AsciiDoc in Ruby
-  licenses:
-    - MIT
-- repo: archpower_powerpc64le
-  srcname: asciidoctor
-  binname: asciidoctor
-  visiblename: asciidoctor
-  version: 2.0.26
-  origversion: 2.0.26-1
-  status: newest
-  summary: An implementation of AsciiDoc in Ruby
-  licenses:
-    - MIT
+  maintainers:
+    - termux@github
 - repo: adelie_current
   subrepo: system
   srcname: asciidoctor
@@ -289,6 +279,26 @@
   summary: An implementation of AsciiDoc in Ruby
   licenses:
     - MIT
+- repo: archpower_powerpc
+  srcname: asciidoctor
+  binname: asciidoctor
+  visiblename: asciidoctor
+  version: 2.0.26
+  origversion: 2.0.26-1
+  status: newest
+  summary: An implementation of AsciiDoc in Ruby
+  licenses:
+    - MIT
+- repo: archpower_powerpc64le
+  srcname: asciidoctor
+  binname: asciidoctor
+  visiblename: asciidoctor
+  version: 2.0.26
+  origversion: 2.0.26-1
+  status: newest
+  summary: An implementation of AsciiDoc in Ruby
+  licenses:
+    - MIT
 - repo: artix
   subrepo: world
   srcname: asciidoctor
@@ -409,6 +419,19 @@
     - ggrossetie@gmail.com
   categories:
     - misc
+- repo: t2
+  srcname: asciidoctor
+  visiblename: asciidoctor
+  version: 2.0.26
+  origversion: null
+  status: newest
+  summary: A fast text processor for converting AsciiDoc to HTML5, DocBook & more
+  maintainers:
+    - rene@exactco.de
+  licenses:
+    - MIT
+  categories:
+    - extra/development
 - repo: debian_14
   subrepo: forky/main
   srcname: asciidoctor
@@ -1726,29 +1749,6 @@
     - kerilk@spack
   licenses:
     - MIT
-- repo: t2
-  srcname: asciidoctor
-  visiblename: asciidoctor
-  version: 2.0.26
-  origversion: null
-  status: newest
-  summary: A fast text processor for converting AsciiDoc to HTML5, DocBook & more
-  maintainers:
-    - rene@exactco.de
-  licenses:
-    - MIT
-  categories:
-    - extra/development
-- repo: termux
-  srcname: asciidoctor
-  binname: asciidoctor
-  visiblename: asciidoctor
-  version: 2.0.26
-  origversion: null
-  status: newest
-  summary: An implementation of AsciiDoc in Ruby
-  maintainers:
-    - termux@github
 - repo: trisquel_10_0
   subrepo: nabia/main
   srcname: asciidoctor
@@ -1973,7 +1973,7 @@
   status: newest
   summary: An implementation of AsciiDoc in Ruby
   maintainers:
-    - fallback-mnt-vylen@repology
+    - wonkru-dev@proton.me
 - repo: wikidata
   srcname: Q56876407
   visiblename: Asciidoctor
