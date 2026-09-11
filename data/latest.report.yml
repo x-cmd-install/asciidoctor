@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.0.26"
   latestRelease: "v2.0.26"
   latestPrerelease: "v2.0.0.rc.3"
-  collectedAt: 2026-09-11T04:27:40Z
+  collectedAt: 2026-09-11T20:46:01Z
 timeline:
   created: 2012-06-01
   lastCommit: 2026-09-01
@@ -87,7 +87,7 @@ total:
   commit: 5804
 ---
 path: /home/runner/.x-repo/github.com/asciidoctor/asciidoctor
-collectedAt: 2026-09-11T04:27:45Z
+collectedAt: 2026-09-11T20:46:07Z
 loc:
   Ruby:
     code: 47912
