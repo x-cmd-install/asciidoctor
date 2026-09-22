@@ -26,13 +26,13 @@ x install asciidoctor
 
 ## OpenSSF Scorecard 评分
 
-总评分: **3.7 / 10**
+总评分: **3.6 / 10**
 
 评分最低的几项:
 
 - **Code-Review** (1/10) — Found 4/30 approved changesets -- score normalized to 1
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
 
@@ -57,12 +57,12 @@ x install asciidoctor
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 1 | 1 | 1 | 0 | 1 |
-| last60d | 2026-07-23 | 0 | 1 | 2 | 1 | 1 | 1 |
-| 90d | 2026-06-23 | 0 | 1 | 4 | 1 | 3 | 2 |
-| last180d | 2026-03-25 | 0 | 3 | 10 | 5 | 6 | 10 |
-| 360d | 2025-09-26 | 3 | 30 | 22 | 27 | 20 | 107 |
-| last720d | 2024-10-01 | 3 | 39 | 28 | 69 | 26 | 128 |
+| 30d | 2026-08-23 | 0 | 1 | 1 | 1 | 0 | 1 |
+| last60d | 2026-07-24 | 0 | 1 | 2 | 1 | 0 | 1 |
+| 90d | 2026-06-24 | 0 | 1 | 4 | 1 | 3 | 2 |
+| last180d | 2026-03-26 | 0 | 3 | 10 | 5 | 6 | 10 |
+| 360d | 2025-09-27 | 3 | 30 | 22 | 27 | 20 | 107 |
+| last720d | 2024-10-02 | 3 | 39 | 28 | 69 | 26 | 128 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ asciidoctor 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260921.yml` · 2026-09-21T04:44:44Z._
+_数据快照: `data/card/260922.yml` · 2026-09-22T04:42:20Z._
