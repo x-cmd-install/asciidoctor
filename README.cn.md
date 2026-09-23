@@ -4,7 +4,7 @@
 
 :gem: A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.
 
-[![x-cmd/install — asciidoctor Code Quality Monitoring Repo Card](https://repo.x-cmd.io/asciidoctor.svg?lang=zh)](https://x-cmd.com/install/asciidoctor)
+[![x-cmd/install — asciidoctor Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/asciidoctor.svg?lang=zh)](https://x-cmd.com/install/asciidoctor)
 
 ## 安装
 
@@ -47,7 +47,7 @@ x install asciidoctor
 
 ## 流行度
 
-- **Star**: 5,214 · **Fork**: 841 · **开放 issue**: 2,894 · **贡献者**: 220
+- **Star**: 5,214 · **Fork**: 842 · **开放 issue**: 2,894 · **贡献者**: 220
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install asciidoctor
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 1 | 1 | 1 | 0 | 1 |
-| last60d | 2026-07-24 | 0 | 1 | 2 | 1 | 0 | 1 |
-| 90d | 2026-06-24 | 0 | 1 | 4 | 1 | 3 | 2 |
-| last180d | 2026-03-26 | 0 | 3 | 10 | 5 | 6 | 10 |
-| 360d | 2025-09-27 | 3 | 30 | 22 | 27 | 20 | 107 |
-| last720d | 2024-10-02 | 3 | 39 | 28 | 69 | 26 | 128 |
+| 30d | 2026-08-24 | 0 | 1 | 1 | 1 | 0 | 1 |
+| last60d | 2026-07-25 | 0 | 1 | 2 | 1 | 0 | 1 |
+| 90d | 2026-06-25 | 0 | 1 | 3 | 1 | 3 | 2 |
+| last180d | 2026-03-27 | 0 | 3 | 10 | 5 | 6 | 10 |
+| 360d | 2025-09-28 | 3 | 30 | 22 | 26 | 20 | 107 |
+| last720d | 2024-10-03 | 3 | 39 | 28 | 68 | 26 | 128 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ asciidoctor 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:42:20Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:43:49Z._
