@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,217 · **Forks**: 842 · **Open issues**: 2,894 · **Contributors**: 220
+- **Stars**: 5,218 · **Forks**: 843 · **Open issues**: 2,895 · **Contributors**: 220
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 1576 · **Open PRs**: 71 · **Closed issues**: 2286 · **Open issues**: 608 · **Commits**: 5804
+- **Releases**: 54 · **Merged PRs**: 1576 · **Open PRs**: 72 · **Closed issues**: 2286 · **Open issues**: 609 · **Commits**: 5804
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 0 | 1 | 1 | 1 | 0 | 1 |
-| last60d | 2026-07-27 | 0 | 1 | 2 | 1 | 0 | 1 |
-| 90d | 2026-06-27 | 0 | 1 | 3 | 1 | 3 | 2 |
-| last180d | 2026-03-29 | 0 | 3 | 10 | 5 | 6 | 10 |
-| 360d | 2025-09-30 | 3 | 30 | 21 | 26 | 20 | 107 |
-| last720d | 2024-10-05 | 3 | 39 | 28 | 68 | 26 | 128 |
+| 30d | 2026-08-27 | 0 | 1 | 2 | 1 | 1 | 1 |
+| last60d | 2026-07-28 | 0 | 1 | 3 | 1 | 1 | 1 |
+| 90d | 2026-06-28 | 0 | 1 | 3 | 1 | 3 | 2 |
+| last180d | 2026-03-30 | 0 | 3 | 11 | 5 | 7 | 10 |
+| 360d | 2025-10-01 | 3 | 30 | 22 | 26 | 21 | 107 |
+| last720d | 2024-10-06 | 3 | 39 | 29 | 68 | 27 | 128 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for asciidoctor lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T04:45:34Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T04:50:36Z._
