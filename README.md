@@ -26,7 +26,7 @@ Total: **64,032** lines of code across **286** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.6 / 10**
+Overall score: **3.5 / 10**
 
 Lowest-scoring checks:
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 1 | 2 | 1 | 2 | 0 |
-| last60d | 2026-07-30 | 0 | 1 | 4 | 1 | 2 | 1 |
-| 90d | 2026-06-30 | 0 | 1 | 4 | 1 | 4 | 2 |
-| last180d | 2026-04-01 | 0 | 3 | 12 | 5 | 8 | 10 |
-| 360d | 2025-10-03 | 3 | 30 | 22 | 26 | 21 | 107 |
-| last720d | 2024-10-08 | 3 | 39 | 30 | 66 | 28 | 128 |
+| 30d | 2026-08-30 | 0 | 1 | 2 | 1 | 2 | 0 |
+| last60d | 2026-07-31 | 0 | 1 | 4 | 1 | 2 | 1 |
+| 90d | 2026-07-01 | 0 | 1 | 4 | 1 | 4 | 2 |
+| last180d | 2026-04-02 | 0 | 3 | 12 | 5 | 8 | 10 |
+| 360d | 2025-10-04 | 3 | 30 | 22 | 26 | 21 | 107 |
+| last720d | 2024-10-09 | 3 | 39 | 30 | 66 | 28 | 128 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for asciidoctor lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:14:12Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T05:35:25Z._
