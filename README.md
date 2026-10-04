@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,217 · **Forks**: 844 · **Open issues**: 2,896 · **Contributors**: 220
+- **Stars**: 5,217 · **Forks**: 843 · **Open issues**: 2,896 · **Contributors**: 220
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 0 | 0 | 2 | 0 | 2 | 0 |
-| last60d | 2026-08-04 | 0 | 1 | 4 | 1 | 2 | 1 |
-| 90d | 2026-07-05 | 0 | 1 | 4 | 1 | 4 | 2 |
-| last180d | 2026-04-06 | 0 | 3 | 12 | 5 | 8 | 10 |
-| 360d | 2025-10-08 | 3 | 30 | 22 | 26 | 21 | 107 |
-| last720d | 2024-10-13 | 3 | 39 | 30 | 66 | 28 | 127 |
+| 30d | 2026-09-04 | 0 | 0 | 2 | 0 | 2 | 0 |
+| last60d | 2026-08-05 | 0 | 1 | 4 | 1 | 2 | 1 |
+| 90d | 2026-07-06 | 0 | 1 | 4 | 1 | 4 | 2 |
+| last180d | 2026-04-07 | 0 | 3 | 12 | 5 | 8 | 10 |
+| 360d | 2025-10-09 | 3 | 30 | 22 | 26 | 21 | 107 |
+| last720d | 2024-10-14 | 3 | 39 | 30 | 65 | 28 | 127 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for asciidoctor lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T05:07:21Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T05:42:01Z._
