@@ -14,12 +14,12 @@ x install asciidoctor
 
 ## Code insight
 
-Total: **64,553** lines of code across **282** files in the top 5 languages.
+Total: **64,556** lines of code across **282** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Ruby | 48,400 | 5,692 | 7,011 | 87 |
-| AsciiDoc | 11,915 | 446 | 3,930 | 177 |
+| Ruby | 48,401 | 5,693 | 7,011 | 87 |
+| AsciiDoc | 11,917 | 446 | 3,930 | 177 |
 | Css | 2,625 | 8 | 474 | 6 |
 | Gherkin | 1,200 | 13 | 227 | 4 |
 | Rakefile | 118 | 14 | 17 | 8 |
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.0.26` (2025-10-24)
-- **Last commit**: 2026-10-27
+- **Last commit**: 2026-10-28
 
 ## Popularity
 
-- **Stars**: 5,227 · **Forks**: 844 · **Open issues**: 2,907 · **Contributors**: 223
+- **Stars**: 5,227 · **Forks**: 844 · **Open issues**: 2,908 · **Contributors**: 223
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 1591 · **Open PRs**: 53 · **Closed issues**: 2312 · **Open issues**: 595 · **Commits**: 5882
+- **Releases**: 54 · **Merged PRs**: 1592 · **Open PRs**: 52 · **Closed issues**: 2313 · **Open issues**: 595 · **Commits**: 5885
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 9 | 2 | 7 | 4 | 77 |
-| last60d | 2026-08-29 | 0 | 10 | 4 | 8 | 6 | 77 |
-| 90d | 2026-07-30 | 0 | 11 | 5 | 8 | 6 | 78 |
-| last180d | 2026-05-01 | 0 | 12 | 8 | 12 | 9 | 79 |
-| 360d | 2025-11-02 | 0 | 21 | 9 | 31 | 12 | 98 |
-| last720d | 2024-11-07 | 3 | 52 | 15 | 80 | 21 | 203 |
+| 30d | 2026-09-29 | 0 | 10 | 2 | 8 | 4 | 80 |
+| last60d | 2026-08-30 | 0 | 11 | 4 | 9 | 6 | 80 |
+| 90d | 2026-07-31 | 0 | 12 | 5 | 9 | 6 | 81 |
+| last180d | 2026-05-02 | 0 | 13 | 8 | 13 | 9 | 82 |
+| 360d | 2025-11-03 | 0 | 22 | 9 | 32 | 12 | 101 |
+| last720d | 2024-11-08 | 3 | 53 | 14 | 81 | 21 | 206 |
 
 ## Distribution status
 
@@ -92,4 +92,4 @@ Install metadata for asciidoctor lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T05:24:55Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T05:36:03Z._
