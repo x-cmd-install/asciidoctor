@@ -1,37 +1,14 @@
-- repo: devuan_4_0
-  subrepo: chimaera/main
+- repo: artix
+  subrepo: world
   srcname: asciidoctor
-  binnames:
-    - ruby-asciidoctor
-    - asciidoctor
-    - asciidoctor-doc
-  visiblename: asciidoctor
-  version: 2.0.12
-  origversion: 2.0.12-2
-  status: outdated
-  maintainers:
-    - pkg-ruby-extras-maintainers@lists.alioth.debian.org
-    - avtobiff@gmail.com
-    - ggrossetie@gmail.com
-  categories:
-    - misc
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: asciidoctor
-  binnames:
-    - ruby-asciidoctor
-    - asciidoctor
-    - asciidoctor-doc
+  binname: asciidoctor
   visiblename: asciidoctor
   version: 2.0.26
-  origversion: 2.0.26-2
+  origversion: 2.0.26-1
   status: newest
-  maintainers:
-    - pkg-ruby-extras-maintainers@lists.alioth.debian.org
-    - avtobiff@gmail.com
-    - ggrossetie@gmail.com
-  categories:
-    - misc
+  summary: An implementation of AsciiDoc in Ruby
+  licenses:
+    - MIT
 - repo: adelie_current
   subrepo: system
   srcname: asciidoctor
@@ -158,23 +135,6 @@
     - ncopa@alpinelinux.org
   licenses:
     - MIT
-- repo: deepin_23
-  subrepo: main
-  srcname: asciidoctor
-  binnames:
-    - ruby-asciidoctor
-    - asciidoctor
-    - asciidoctor-doc
-  visiblename: asciidoctor
-  version: 2.0.16
-  origversion: 2.0.16-2
-  status: outdated
-  maintainers:
-    - pkg-ruby-extras-maintainers@lists.alioth.debian.org
-    - avtobiff@gmail.com
-    - ggrossetie@gmail.com
-  categories:
-    - text
 - repo: alpine_edge
   subrepo: main
   srcname: asciidoctor
@@ -320,17 +280,6 @@
   summary: An implementation of AsciiDoc in Ruby
   licenses:
     - MIT
-- repo: artix
-  subrepo: world
-  srcname: asciidoctor
-  binname: asciidoctor
-  visiblename: asciidoctor
-  version: 2.0.26
-  origversion: 2.0.26-1
-  status: newest
-  summary: An implementation of AsciiDoc in Ruby
-  licenses:
-    - MIT
 - repo: chimera
   subrepo: main
   srcname: asciidoctor
@@ -342,21 +291,6 @@
   summary: Ruby-based AsciiDoc converter
   licenses:
     - MIT
-- repo: deepin_25
-  subrepo: main
-  srcname: asciidoctor
-  binnames:
-    - ruby-asciidoctor
-    - asciidoctor
-    - asciidoctor-doc
-  visiblename: asciidoctor
-  version: 2.0.23
-  origversion: 2.0.23-1
-  status: outdated
-  maintainers:
-    - pkg-ruby-extras-maintainers@lists.alioth.debian.org
-    - avtobiff@gmail.com
-    - ggrossetie@gmail.com
 - repo: chimera
   subrepo: main
   srcname: asciidoctor
@@ -409,7 +343,7 @@
   binname: asciidoctor
   visiblename: asciidoctor
   version: 2.0.26
-  origversion: 2.0.26-2
+  origversion: 2.0.26-3
   status: newest
   summary: Ruby asciidoctor module
   maintainers:
@@ -423,7 +357,7 @@
   binname: ruby-asciidoctor
   visiblename: ruby-asciidoctor
   version: 2.0.26
-  origversion: 2.0.26-2
+  origversion: 2.0.26-3
   status: newest
   summary: Ruby asciidoctor module
   maintainers:
@@ -533,6 +467,72 @@
     - aerostitch@debian.org
     - avtobiff@gmail.com
     - ggrossetie@gmail.com
+- repo: deepin_23
+  subrepo: main
+  srcname: asciidoctor
+  binnames:
+    - ruby-asciidoctor
+    - asciidoctor
+    - asciidoctor-doc
+  visiblename: asciidoctor
+  version: 2.0.16
+  origversion: 2.0.16-2
+  status: outdated
+  maintainers:
+    - pkg-ruby-extras-maintainers@lists.alioth.debian.org
+    - avtobiff@gmail.com
+    - ggrossetie@gmail.com
+  categories:
+    - text
+- repo: deepin_25
+  subrepo: main
+  srcname: asciidoctor
+  binnames:
+    - ruby-asciidoctor
+    - asciidoctor
+    - asciidoctor-doc
+  visiblename: asciidoctor
+  version: 2.0.23
+  origversion: 2.0.23-1
+  status: outdated
+  maintainers:
+    - pkg-ruby-extras-maintainers@lists.alioth.debian.org
+    - avtobiff@gmail.com
+    - ggrossetie@gmail.com
+- repo: devuan_4_0
+  subrepo: chimaera/main
+  srcname: asciidoctor
+  binnames:
+    - ruby-asciidoctor
+    - asciidoctor
+    - asciidoctor-doc
+  visiblename: asciidoctor
+  version: 2.0.12
+  origversion: 2.0.12-2
+  status: outdated
+  maintainers:
+    - pkg-ruby-extras-maintainers@lists.alioth.debian.org
+    - avtobiff@gmail.com
+    - ggrossetie@gmail.com
+  categories:
+    - misc
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: asciidoctor
+  binnames:
+    - ruby-asciidoctor
+    - asciidoctor
+    - asciidoctor-doc
+  visiblename: asciidoctor
+  version: 2.0.26
+  origversion: 2.0.26-2
+  status: newest
+  maintainers:
+    - pkg-ruby-extras-maintainers@lists.alioth.debian.org
+    - avtobiff@gmail.com
+    - ggrossetie@gmail.com
+  categories:
+    - misc
 - repo: epel_7
   srcname: rubygem-asciidoctor
   visiblename: rubygem-asciidoctor
@@ -656,21 +656,6 @@
   categories:
     - Unspecified
 - repo: fedora_43
-  subrepo: release
-  srcname: rubygem-asciidoctor
-  binnames:
-    - rubygem-asciidoctor
-    - rubygem-asciidoctor-doc
-  visiblename: rubygem-asciidoctor
-  version: 2.0.20
-  origversion: 2.0.20-10.fc43
-  status: legacy
-  summary: A fast, open source AsciiDoc implementation in Ruby
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: fedora_43
   subrepo: updates
   srcname: rubygem-asciidoctor
   binnames:
@@ -680,6 +665,21 @@
   version: 2.0.26
   origversion: 2.0.26-1.fc43
   status: newest
+  summary: A fast, open source AsciiDoc implementation in Ruby
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: release
+  srcname: rubygem-asciidoctor
+  binnames:
+    - rubygem-asciidoctor
+    - rubygem-asciidoctor-doc
+  visiblename: rubygem-asciidoctor
+  version: 2.0.20
+  origversion: 2.0.20-10.fc43
+  status: legacy
   summary: A fast, open source AsciiDoc implementation in Ruby
   licenses:
     - MIT
@@ -753,6 +753,16 @@
     - MIT
   categories:
     - dev-ruby
+- repo: msys2_ucrt64
+  srcname: mingw-w64-asciidoctor
+  binname: mingw-w64-ucrt-x86_64-asciidoctor
+  visiblename: mingw-w64-ucrt-x86_64-asciidoctor
+  version: 2.0.26
+  origversion: 2.0.26-2
+  status: newest
+  summary: An implementation of AsciiDoc in Ruby (mingw-w64)
+  licenses:
+    - spdx:MIT
 - repo: gentoo
   srcname: dev-ruby/asciidoctor
   visiblename: dev-ruby/asciidoctor
@@ -884,17 +894,6 @@
     - MIT
   categories:
     - dev-ruby
-- repo: nix_stable_25_11
-  srcname: asciidoctor-with-extensions
-  visiblename: asciidoctor
-  version: 2.0.26
-  origversion: null
-  status: newest
-  summary: Faster Asciidoc processor written in Ruby, with many extensions enabled
-  maintainers:
-    - me@doronbehar.com
-  licenses:
-    - MIT
 - repo: liguros_develop
   srcname: dev-ruby/asciidoctor
   visiblename: dev-ruby/asciidoctor
@@ -952,18 +951,6 @@
     - MIT
   categories:
     - Development/Ruby
-- repo: nix_stable_25_05
-  srcname: asciidoctor
-  visiblename: asciidoctor
-  version: 2.0.23
-  origversion: null
-  status: legacy
-  summary: Faster Asciidoc processor written in Ruby
-  maintainers:
-    - yacine.hmito@gmail.com
-    - nixpkgs@nicknovitski.com
-  licenses:
-    - MIT
 - repo: mageia_cauldron
   subrepo: core/release
   srcname: ruby-asciidoctor
@@ -1065,16 +1052,6 @@
   summary: An implementation of AsciiDoc in Ruby
   licenses:
     - spdx:MIT
-- repo: msys2_ucrt64
-  srcname: mingw-w64-asciidoctor
-  binname: mingw-w64-ucrt-x86_64-asciidoctor
-  visiblename: mingw-w64-ucrt-x86_64-asciidoctor
-  version: 2.0.26
-  origversion: 2.0.26-2
-  status: newest
-  summary: An implementation of AsciiDoc in Ruby (mingw-w64)
-  licenses:
-    - spdx:MIT
 - repo: nix_stable_24_05
   srcname: asciidoctor
   visiblename: asciidoctor
@@ -1122,6 +1099,18 @@
   licenses:
     - MIT
 - repo: nix_stable_25_05
+  srcname: asciidoctor
+  visiblename: asciidoctor
+  version: 2.0.23
+  origversion: null
+  status: legacy
+  summary: Faster Asciidoc processor written in Ruby
+  maintainers:
+    - yacine.hmito@gmail.com
+    - nixpkgs@nicknovitski.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
   srcname: asciidoctor-with-extensions
   visiblename: asciidoctor
   version: 2.0.26
@@ -1142,6 +1131,17 @@
   maintainers:
     - yacine.hmito@gmail.com
     - nixpkgs@nicknovitski.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: asciidoctor-with-extensions
+  visiblename: asciidoctor
+  version: 2.0.26
+  origversion: null
+  status: newest
+  summary: Faster Asciidoc processor written in Ruby, with many extensions enabled
+  maintainers:
+    - me@doronbehar.com
   licenses:
     - MIT
 - repo: nix_stable_26_05
@@ -1455,7 +1455,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: asciidoctor
   binnames:
     - ruby-asciidoctor
@@ -1472,7 +1472,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: asciidoctor
   binnames:
     - ruby-asciidoctor
