@@ -30,8 +30,8 @@ x install asciidoctor
 
 评分最低的几项:
 
+- **Code-Review** (0/10) — Found 1/30 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -43,26 +43,26 @@ x install asciidoctor
 ## 发布
 
 - **最新版本**: `v2.0.26` (2025-10-24)
-- **最近提交**: 2026-10-31
+- **最近提交**: 2026-11-04
 
 ## 流行度
 
-- **Star**: 5,229 · **Fork**: 844 · **开放 issue**: 2,909 · **贡献者**: 223
+- **Star**: 5,229 · **Fork**: 845 · **开放 issue**: 2,910 · **贡献者**: 223
 
 ## 累计统计
 
-- **发布数**: 54 · **已合并 PR**: 1593 · **开放 PR**: 50 · **已关闭 issue**: 2314 · **开放 issue**: 595 · **提交数**: 5890
+- **发布数**: 54 · **已合并 PR**: 1593 · **开放 PR**: 50 · **已关闭 issue**: 2314 · **开放 issue**: 596 · **提交数**: 5892
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 11 | 2 | 8 | 5 | 85 |
-| last60d | 2026-09-05 | 0 | 11 | 4 | 8 | 7 | 85 |
-| 90d | 2026-08-06 | 0 | 13 | 5 | 9 | 7 | 86 |
-| last180d | 2026-05-08 | 0 | 14 | 8 | 13 | 10 | 87 |
-| 360d | 2025-11-09 | 0 | 23 | 9 | 31 | 13 | 102 |
-| last720d | 2024-11-14 | 3 | 54 | 13 | 81 | 21 | 211 |
+| 30d | 2026-10-06 | 0 | 11 | 2 | 8 | 6 | 87 |
+| last60d | 2026-09-06 | 0 | 11 | 4 | 8 | 8 | 87 |
+| 90d | 2026-08-07 | 0 | 13 | 5 | 9 | 8 | 88 |
+| last180d | 2026-05-09 | 0 | 14 | 8 | 13 | 11 | 89 |
+| 360d | 2025-11-10 | 0 | 22 | 9 | 31 | 14 | 104 |
+| last720d | 2024-11-15 | 3 | 54 | 13 | 81 | 22 | 213 |
 
 ## 发行版状态
 
@@ -92,4 +92,4 @@ asciidoctor 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261104.yml` · 2026-11-04T06:05:47Z._
+_数据快照: `data/card/261105.yml` · 2026-11-05T06:28:39Z._
