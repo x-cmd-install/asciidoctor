@@ -14,12 +14,12 @@ x install asciidoctor
 
 ## Code insight
 
-Total: **64,655** lines of code across **282** files in the top 5 languages.
+Total: **64,703** lines of code across **282** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Ruby | 48,498 | 5,696 | 7,018 | 87 |
-| AsciiDoc | 11,919 | 446 | 3,930 | 177 |
+| Ruby | 48,544 | 5,696 | 7,027 | 87 |
+| AsciiDoc | 11,921 | 446 | 3,930 | 177 |
 | Css | 2,625 | 8 | 474 | 6 |
 | Gherkin | 1,200 | 13 | 227 | 4 |
 | Rakefile | 118 | 14 | 17 | 8 |
@@ -43,30 +43,30 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.0.26` (2025-10-24)
-- **Last commit**: 2026-11-07
+- **Last commit**: 2026-11-09
 
 ## Popularity
 
-- **Stars**: 5,228 · **Forks**: 845 · **Open issues**: 2,910 · **Contributors**: 223
+- **Stars**: 5,227 · **Forks**: 846 · **Open issues**: 2,911 · **Contributors**: 223
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 1593 · **Open PRs**: 51 · **Closed issues**: 2314 · **Open issues**: 596 · **Commits**: 5894
+- **Releases**: 54 · **Merged PRs**: 1595 · **Open PRs**: 49 · **Closed issues**: 2316 · **Open issues**: 595 · **Commits**: 5898
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 11 | 3 | 8 | 6 | 72 |
-| last60d | 2026-09-09 | 0 | 11 | 5 | 8 | 8 | 89 |
-| 90d | 2026-08-10 | 0 | 13 | 6 | 9 | 8 | 90 |
-| last180d | 2026-05-12 | 0 | 14 | 9 | 13 | 11 | 91 |
-| 360d | 2025-11-13 | 0 | 22 | 10 | 31 | 14 | 106 |
-| last720d | 2024-11-18 | 3 | 54 | 14 | 81 | 22 | 215 |
+| 30d | 2026-10-11 | 0 | 13 | 3 | 10 | 5 | 76 |
+| last60d | 2026-09-11 | 0 | 13 | 5 | 10 | 7 | 93 |
+| 90d | 2026-08-12 | 0 | 15 | 5 | 11 | 7 | 94 |
+| last180d | 2026-05-14 | 0 | 16 | 8 | 15 | 10 | 95 |
+| 360d | 2025-11-15 | 0 | 24 | 9 | 33 | 13 | 110 |
+| last720d | 2024-11-20 | 3 | 55 | 13 | 83 | 21 | 219 |
 
 ## Distribution status
 
-Reported by **148** distros on [repology.org](https://repology.org/project/asciidoctor). **71** are ✅ on the latest upstream release, **69** are ⚠️ on an older version.
+Reported by **147** distros on [repology.org](https://repology.org/project/asciidoctor). **70** are ✅ on the latest upstream release, **69** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -92,4 +92,4 @@ Install metadata for asciidoctor lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T05:50:24Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:04:59Z._
