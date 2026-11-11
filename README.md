@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 13 | 3 | 10 | 5 | 76 |
-| last60d | 2026-09-11 | 0 | 13 | 5 | 10 | 7 | 93 |
-| 90d | 2026-08-12 | 0 | 15 | 5 | 11 | 7 | 94 |
-| last180d | 2026-05-14 | 0 | 16 | 8 | 15 | 10 | 95 |
-| 360d | 2025-11-15 | 0 | 24 | 9 | 33 | 13 | 110 |
-| last720d | 2024-11-20 | 3 | 55 | 13 | 83 | 21 | 219 |
+| 30d | 2026-10-12 | 0 | 13 | 3 | 9 | 5 | 76 |
+| last60d | 2026-09-12 | 0 | 13 | 5 | 10 | 7 | 93 |
+| 90d | 2026-08-13 | 0 | 14 | 5 | 11 | 7 | 94 |
+| last180d | 2026-05-15 | 0 | 16 | 8 | 15 | 10 | 95 |
+| 360d | 2025-11-16 | 0 | 23 | 9 | 33 | 13 | 110 |
+| last720d | 2024-11-21 | 3 | 55 | 13 | 83 | 21 | 219 |
 
 ## Distribution status
 
@@ -92,4 +92,4 @@ Install metadata for asciidoctor lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:04:59Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T05:56:55Z._
