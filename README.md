@@ -57,16 +57,16 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 11 | 4 | 8 | 6 | 49 |
-| last60d | 2026-09-21 | 0 | 15 | 6 | 11 | 8 | 102 |
-| 90d | 2026-08-22 | 0 | 16 | 6 | 12 | 8 | 103 |
-| last180d | 2026-05-24 | 0 | 18 | 9 | 16 | 11 | 104 |
-| 360d | 2025-11-25 | 0 | 25 | 10 | 34 | 13 | 119 |
-| last720d | 2024-11-30 | 3 | 57 | 14 | 84 | 22 | 226 |
+| 30d | 2026-10-22 | 0 | 9 | 3 | 4 | 5 | 49 |
+| last60d | 2026-09-22 | 0 | 15 | 6 | 11 | 8 | 102 |
+| 90d | 2026-08-23 | 0 | 16 | 6 | 12 | 8 | 103 |
+| last180d | 2026-05-25 | 0 | 18 | 9 | 16 | 11 | 104 |
+| 360d | 2025-11-26 | 0 | 25 | 10 | 34 | 13 | 119 |
+| last720d | 2024-12-01 | 3 | 57 | 14 | 84 | 22 | 226 |
 
 ## Distribution status
 
-Reported by **147** distros on [repology.org](https://repology.org/project/asciidoctor). **71** are ✅ on the latest upstream release, **68** are ⚠️ on an older version.
+Reported by **146** distros on [repology.org](https://repology.org/project/asciidoctor). **71** are ✅ on the latest upstream release, **67** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -92,4 +92,4 @@ Install metadata for asciidoctor lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T07:03:53Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T06:59:33Z._
