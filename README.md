@@ -14,11 +14,11 @@ x install asciidoctor
 
 ## Code insight
 
-Total: **64,749** lines of code across **282** files in the top 5 languages.
+Total: **64,735** lines of code across **282** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Ruby | 48,588 | 5,697 | 7,036 | 87 |
+| Ruby | 48,574 | 5,698 | 7,034 | 87 |
 | AsciiDoc | 11,923 | 446 | 3,930 | 177 |
 | Css | 2,625 | 8 | 474 | 6 |
 | Gherkin | 1,200 | 13 | 227 | 4 |
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.0.26` (2025-10-24)
-- **Last commit**: 2026-11-20
+- **Last commit**: 2026-11-21
 
 ## Popularity
 
-- **Stars**: 5,226 · **Forks**: 848 · **Open issues**: 2,913 · **Contributors**: 223
+- **Stars**: 5,227 · **Forks**: 848 · **Open issues**: 2,913 · **Contributors**: 223
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 1597 · **Open PRs**: 50 · **Closed issues**: 2320 · **Open issues**: 593 · **Commits**: 5907
+- **Releases**: 54 · **Merged PRs**: 1597 · **Open PRs**: 50 · **Closed issues**: 2320 · **Open issues**: 593 · **Commits**: 5915
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 9 | 3 | 4 | 5 | 49 |
-| last60d | 2026-09-22 | 0 | 15 | 6 | 11 | 8 | 102 |
-| 90d | 2026-08-23 | 0 | 16 | 6 | 12 | 8 | 103 |
-| last180d | 2026-05-25 | 0 | 18 | 9 | 16 | 11 | 104 |
-| 360d | 2025-11-26 | 0 | 25 | 10 | 34 | 13 | 119 |
-| last720d | 2024-12-01 | 3 | 57 | 14 | 84 | 22 | 226 |
+| 30d | 2026-10-23 | 0 | 8 | 3 | 4 | 5 | 29 |
+| last60d | 2026-09-23 | 0 | 15 | 6 | 11 | 8 | 110 |
+| 90d | 2026-08-24 | 0 | 16 | 6 | 12 | 8 | 111 |
+| last180d | 2026-05-26 | 0 | 18 | 9 | 16 | 11 | 112 |
+| 360d | 2025-11-27 | 0 | 25 | 10 | 34 | 13 | 127 |
+| last720d | 2024-12-02 | 3 | 57 | 14 | 84 | 22 | 233 |
 
 ## Distribution status
 
@@ -92,4 +92,4 @@ Install metadata for asciidoctor lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T06:59:33Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T06:32:12Z._
