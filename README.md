@@ -24,16 +24,6 @@ Total: **64,735** lines of code across **282** files in the top 5 languages.
 | Gherkin | 1,200 | 13 | 227 | 4 |
 | Rakefile | 118 | 14 | 17 | 8 |
 
-## OpenSSF Scorecard
-
-Overall score: **4 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (0/10) — Found 1/30 approved changesets -- score normalized to 0
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-
 ## Source
 
 - **Upstream**: <https://github.com/asciidoctor/asciidoctor>
@@ -57,12 +47,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 8 | 3 | 4 | 5 | 30 |
-| last60d | 2026-09-24 | 0 | 15 | 6 | 11 | 8 | 111 |
-| 90d | 2026-08-25 | 0 | 16 | 6 | 12 | 8 | 112 |
-| last180d | 2026-05-27 | 0 | 18 | 9 | 15 | 11 | 113 |
-| 360d | 2025-11-28 | 0 | 25 | 10 | 34 | 13 | 128 |
-| last720d | 2024-12-03 | 3 | 57 | 14 | 84 | 22 | 234 |
+| 30d | 2026-10-25 | 0 | 8 | 3 | 3 | 5 | 30 |
+| last60d | 2026-09-25 | 0 | 15 | 5 | 11 | 7 | 111 |
+| 90d | 2026-08-26 | 0 | 16 | 6 | 12 | 8 | 112 |
+| last180d | 2026-05-28 | 0 | 18 | 8 | 15 | 11 | 113 |
+| 360d | 2025-11-29 | 0 | 25 | 10 | 34 | 13 | 128 |
+| last720d | 2024-12-04 | 3 | 57 | 13 | 84 | 22 | 234 |
 
 ## Distribution status
 
@@ -92,4 +82,4 @@ Install metadata for asciidoctor lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T07:23:02Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T09:50:29Z._
