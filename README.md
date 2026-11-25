@@ -37,41 +37,22 @@ Total: **64,735** lines of code across **282** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,229 · **Forks**: 849 · **Open issues**: 2,913 · **Contributors**: 223
+- **Stars**: 5,229 · **Forks**: 850 · **Open issues**: 2,913 · **Contributors**: 223
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 1597 · **Open PRs**: 50 · **Closed issues**: 2320 · **Open issues**: 593 · **Commits**: 5916
+- **Releases**: 54 · **Merged PRs**: 1597 · **Open PRs**: 51 · **Closed issues**: 2320 · **Open issues**: 593 · **Commits**: 5916
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 8 | 3 | 3 | 5 | 30 |
-| last60d | 2026-09-25 | 0 | 15 | 5 | 11 | 7 | 111 |
-| 90d | 2026-08-26 | 0 | 16 | 6 | 12 | 8 | 112 |
-| last180d | 2026-05-28 | 0 | 18 | 8 | 15 | 11 | 113 |
-| 360d | 2025-11-29 | 0 | 25 | 10 | 34 | 13 | 128 |
-| last720d | 2024-12-04 | 3 | 57 | 13 | 84 | 22 | 234 |
-
-## Distribution status
-
-Reported by **146** distros on [repology.org](https://repology.org/project/asciidoctor). **71** are ✅ on the latest upstream release, **67** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `2.0.26` | ✅ latest |
-| Debian 14 | `2.0.26` | ✅ latest |
-| Debian 13 | `2.0.23` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `2.0.26` | ✅ latest |
-| Ubuntu 24.04 LTS | `2.0.20` | ⚠️ outdated |
-| Arch | `2.0.26` | ✅ latest |
-| Homebrew | `2.0.26` | ✅ latest |
-| Fedora rawhide | `2.0.26` | ✅ latest |
-| Nix unstable | `2.0.26` | ✅ latest |
-| Void | `2.0.26` | ✅ latest |
-| Alpine edge | `2.0.26` | ✅ latest |
-| openSUSE Tumbleweed | `2.0.23` | ⚠️ outdated |
+| 30d | 2026-10-26 | 0 | 6 | 4 | 3 | 5 | 30 |
+| last60d | 2026-09-26 | 0 | 15 | 6 | 11 | 7 | 111 |
+| 90d | 2026-08-27 | 0 | 16 | 7 | 12 | 8 | 112 |
+| last180d | 2026-05-29 | 0 | 18 | 9 | 15 | 11 | 113 |
+| 360d | 2025-11-30 | 0 | 25 | 11 | 34 | 13 | 128 |
+| last720d | 2024-12-05 | 3 | 57 | 14 | 84 | 22 | 234 |
 
 ## Improve this data
 
@@ -82,4 +63,4 @@ Install metadata for asciidoctor lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T09:50:29Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:16:56Z._
