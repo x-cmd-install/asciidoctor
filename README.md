@@ -37,7 +37,7 @@ Total: **64,735** lines of code across **282** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,229 · **Forks**: 850 · **Open issues**: 2,913 · **Contributors**: 223
+- **Stars**: 5,230 · **Forks**: 850 · **Open issues**: 2,913 · **Contributors**: 223
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **64,735** lines of code across **282** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 6 | 4 | 3 | 5 | 30 |
-| last60d | 2026-09-26 | 0 | 15 | 6 | 11 | 7 | 111 |
-| 90d | 2026-08-27 | 0 | 16 | 7 | 12 | 8 | 112 |
-| last180d | 2026-05-29 | 0 | 18 | 9 | 15 | 11 | 113 |
-| 360d | 2025-11-30 | 0 | 25 | 11 | 34 | 13 | 128 |
-| last720d | 2024-12-05 | 3 | 57 | 14 | 84 | 22 | 234 |
+| 30d | 2026-10-27 | 0 | 5 | 4 | 3 | 3 | 0 |
+| last60d | 2026-09-27 | 0 | 15 | 5 | 11 | 6 | 0 |
+| 90d | 2026-08-28 | 0 | 16 | 7 | 12 | 8 | 0 |
+| last180d | 2026-05-30 | 0 | 18 | 9 | 15 | 11 | 0 |
+| 360d | 2025-12-01 | 0 | 25 | 11 | 33 | 13 | 0 |
+| last720d | 2024-12-06 | 3 | 57 | 14 | 83 | 22 | 234 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for asciidoctor lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:16:56Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:13:27Z._
