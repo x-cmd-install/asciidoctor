@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.0.26"
   latestRelease: "v2.0.26"
   latestPrerelease: "v2.0.0.rc.3"
-  collectedAt: 2026-11-27T08:09:54Z
+  collectedAt: 2026-11-28T07:32:43Z
 timeline:
   created: 2012-06-01
   lastCommit: 2026-11-22
@@ -31,47 +31,47 @@ language:
 totalBytes: 2288218
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 4
-    openPR: 4
+    openPR: 3
     closedIssue: 3
     openIssue: 2
-    commit: 0
+    commit: 30
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
     mergedPR: 15
     openPR: 5
     closedIssue: 11
     openIssue: 6
-    commit: 0
+    commit: 111
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
     mergedPR: 16
     openPR: 7
     closedIssue: 12
     openIssue: 8
-    commit: 0
+    commit: 112
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 0
     mergedPR: 18
     openPR: 9
     closedIssue: 15
     openIssue: 11
-    commit: 0
+    commit: 113
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 0
     mergedPR: 25
     openPR: 11
     closedIssue: 33
     openIssue: 13
-    commit: 0
+    commit: 128
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 3
     mergedPR: 57
     openPR: 14
@@ -87,7 +87,7 @@ total:
   commit: 5916
 ---
 path: /home/runner/.x-repo/github.com/asciidoctor/asciidoctor
-collectedAt: 2026-11-27T08:09:57Z
+collectedAt: 2026-11-28T07:32:47Z
 loc:
   Ruby:
     code: 48574
